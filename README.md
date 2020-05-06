@@ -19,9 +19,7 @@
 </p>
 
 ---
-## • How To Setup API ( video )
-
-https://youtu.be/I8oR9tuYyrU
+#How to use ask @therealApr
 
 
 ## • API Setup
@@ -34,7 +32,7 @@ https://youtu.be/I8oR9tuYyrU
 
 `$ pkg install -y git python`
 
-`$ git clone https://github.com/th3unkn0n/TeleGram-Scraper.git`
+`$ git clone https://github.com/prajaydevsys/TG-scraper.git
 
 `$ cd TeleGram-Scraper`
 
@@ -64,24 +62,3 @@ https://youtu.be/I8oR9tuYyrU
 
 `$ python3 setup.py -u`
 
----
-
-<img src="https://github.com/th3unkn0n/TeleGram-Scraper/blob/master/.image/20200124_113728.jpg">
-<img src="https://github.com/th3unkn0n/TeleGram-Scraper/blob/master/.image/20200124_112937.jpg">
-
----
-
-<p align="center">
-  Follow Me On
-</p>
-<p align="center">
-  <a href="https://youtube.com/theunknon">
-    <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
-  </a>
-  <a href="https://github.com/th3unkn0n">
-    <img src="https://www.iconsdb.com/icons/preview/black/github-9-xxl.png" width="40" height="40">
-  </a>
-  <a href="https://twitter.com/th3unkn0n">
-    <img src="https://www.iconsdb.com/icons/preview/black/twitter-4-xxl.png" width="40" height="40">
-  </a>
-</p>
